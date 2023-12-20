@@ -78,7 +78,7 @@ public class FrontController extends HttpServlet {
 					descuento = 0.5f;
 					break;
 				case 3:
-					descuento = 0.015f;
+					descuento = 0.15f;
 					break;
 				default:
 					descuento = 1;
